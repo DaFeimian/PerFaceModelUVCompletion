@@ -1,0 +1,10 @@
+{
+    "dafeimian:addon": {
+        "description": {
+            "Icon": "mdi6.hexagon-slice-6",
+            "Name": "逐面模型UV信息补缺",
+            "Tag": "辅助功能",
+            "Version": "1.0.0"
+        }
+    }
+}
